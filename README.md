@@ -32,7 +32,7 @@
 
   * When the game ends, it should display their score and give the user the ability to save their initials and their score
 ## Github Repo
-
+https://github.com/candicewongls/code-quiz
 
 ## Live URL
 
