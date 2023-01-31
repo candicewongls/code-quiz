@@ -35,7 +35,7 @@
 https://github.com/candicewongls/code-quiz
 
 ## Live URL
-
+https://candicewongls.github.io/code-quiz/
 
 ## Credit
 https://www.w3schools.com/js/
