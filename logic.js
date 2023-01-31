@@ -43,7 +43,7 @@ function startGame() {
     isWin = false;
     // Prevents start button from being clicked when round is in progress
     // startButton.disabled = true;
-    startScreen.classList.add("hide")
+    startScreen.classList.add('hide')
     startTimer()
     showQuestions()
 }
