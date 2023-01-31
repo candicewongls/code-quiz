@@ -3,13 +3,13 @@ var highScoreContainer = document.querySelector("#highscores")
 var submitButton = document.querySelector("#submit");
 var highScore = document.querySelector("#final-score")
 
-/*submitButton.addEventListener("click", function(event) {
+submitButton.addEventListener("click", function(event) {
     event.preventDefault();
     var scoreBoard = document.createElement('h3')
     scoreBoard.textContent = user
     highScoreContainer.append(scoreBoard)
 
-})*/
+})
 
 document.addEventListener("click", function () {
   highScoreContainer.addEventListener("click", swapper, false);
